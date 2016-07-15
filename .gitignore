@@ -1,6 +1,2 @@
 .DS_Store
-.settings
-.vscode
-.idea
-build/Release
 node_modules
