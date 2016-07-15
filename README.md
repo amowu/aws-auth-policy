@@ -1,4 +1,5 @@
-# aws-api-policy-generator
+# aws-policy-generator
+
 Module version of AWS AuthPolicy for generating auth policies for AWS Gateway API Authorizers.
 
 ## Input
