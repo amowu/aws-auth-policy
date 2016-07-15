@@ -1,11 +1,17 @@
-# aws-policy-generator
+# aws-auth-policy
 
 Module version of AWS AuthPolicy for generating auth policies for AWS Gateway API Authorizers.
+
+## Install
+
+```sh
+$ npm install aws-auth-policy --save
+```
 
 ## Input
 
 ```js
-var AuthPolicy = require("./auth-policy");
+var AuthPolicy = require("aws-auth-policy");
 
 var apiOptions = {};
 apiOptions.region = "us-east-1";
